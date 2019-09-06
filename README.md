@@ -1,5 +1,7 @@
 # PinyinIME
 
+> 该项目是基于 PinyinIME 项目结合 AdbKeyboard 进行个人定制的版本，可以实现借由 adb 发送键盘事件的广播，从而使得调用输入法时，也可以使用电脑键盘进行 adb 广播输入。
+
 #### 介绍
 基于googlepinyin输入法改造
 
@@ -15,13 +17,6 @@ NDK 19.2.5345600 & CMake 3.6.4111459
 
 ANDROID_HOME 安卓SDK系统环境变量根基自己定义修改，在app/build.gradle
 layoutlib.jar 采用的是android-22 在app/build.gradle根基系统自己修改
-
-#### 效果图
-
-<img src="https://gitee.com/jabony/PinyinIME/raw/master/screenshot/选择默认输入法.png" width = "300" height = "533" />
-<img src="https://gitee.com/jabony/PinyinIME/raw/master/screenshot/默认全键盘输入法.png" width = "300" height = "533" />
-<img src="https://gitee.com/jabony/PinyinIME/raw/master/screenshot/输入中文效果.png" width = "300" height = "533" />
-
 
 #### 安装教程
 
