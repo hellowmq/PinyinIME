@@ -1,0 +1,221 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\ifans.wen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"engine-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "engine",
+			"buildCommand" : "C:\\Users\\ifans.wen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target engine",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dictbuilder.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dictlist.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dicttrie.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/lpicache.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/mystdlib.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/ngram.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/searchutility.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/spellingtable.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/spellingtrie.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/splparser.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/utf16char.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/utf16reader.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86/libengine.a",
+			"toolchain" : "2715396617"
+		},
+		"jni_pinyinime-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "jni_pinyinime",
+			"buildCommand" : "C:\\Users\\ifans.wen\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target jni_pinyinime",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dictbuilder.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dictlist.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/dicttrie.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/lpicache.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/matrixsearch.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/mystdlib.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/ngram.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/pinyinime.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/searchutility.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/spellingtable.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/spellingtrie.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/splparser.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/userdict.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/utf16char.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/utf16reader.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djni_pinyinime_EXPORTS -IC:\\Users\\ifans.wen\\AndroidStudioProjects\\jabony-PinyinIME-master\\PinyinIME\\app\\src\\main\\cpp\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/src/main/cpp/share/sync.cpp",
+					"workingDirectory" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/build/intermediates/cmake/debug/obj/x86/libjni_pinyinime.so",
+			"toolchain" : "2715396617"
+		}
+	},
+	"toolchains" : 
+	{
+		"2715396617" : 
+		{
+			"cCompilerExecutable" : "C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/ifans.wen/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

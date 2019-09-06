@@ -1,0 +1,4 @@
+C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/jni_pinyinime.dir
+C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/engine.dir
+C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ifans.wen/AndroidStudioProjects/jabony-PinyinIME-master/PinyinIME/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
