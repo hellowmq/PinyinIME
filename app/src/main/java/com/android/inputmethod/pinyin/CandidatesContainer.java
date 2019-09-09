@@ -33,9 +33,7 @@ import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 import android.widget.ViewFlipper;
 
-interface ArrowUpdater {
-    void updateArrowStatus();
-}
+
 
 
 /**

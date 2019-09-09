@@ -20,26 +20,9 @@ import android.graphics.drawable.Drawable;
 
 import java.util.Vector;
 
-/**
- * Key icon definition. It is defined in soft keyboard template. A soft keyboard
- * can refer to such an icon in its xml file directly to improve performance.
- */
-class KeyIconRecord {
-    int keyCode;
-    Drawable icon;
-    Drawable iconPopup;
-}
 
 
-/**
- * Default definition for a certain key. It is defined in soft keyboard
- * template. A soft keyboard can refer to a default key in its xml file. Nothing
- * of the key can be overwritten, including the size.
- */
-class KeyRecord {
-    int keyId;
-    SoftKey softKey;
-}
+
 
 
 /**
@@ -205,29 +188,5 @@ public class SkbTemplate {
             return null;
         }
         return null;
-    }
-}
-
-
-class SoftKeyType {
-    public static final int KEYTYPE_ID_NORMAL_KEY = 0;
-
-    public int mKeyTypeId;
-    public Drawable mKeyBg;
-    public Drawable mKeyHlBg;
-    public int mColor;
-    public int mColorHl;
-    public int mColorBalloon;
-
-    SoftKeyType(int id, Drawable bg, Drawable hlBg) {
-        mKeyTypeId = id;
-        mKeyBg = bg;
-        mKeyHlBg = hlBg;
-    }
-
-    public void setColors(int color, int colorHl, int colorBalloon) {
-        mColor = color;
-        mColorHl = colorHl;
-        mColorBalloon = colorBalloon;
     }
 }
